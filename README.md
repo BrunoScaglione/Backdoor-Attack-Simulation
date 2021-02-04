@@ -33,6 +33,7 @@ cd Ex 1.1
 2. Run the server:
 ```bash
 python server.py
+```
 
 3. Run the client(s):
 ```bash
