@@ -13,9 +13,7 @@ Backdoor-Attack-Simulation
 
 <p align="center">
     Each of the sub-projects has a <strong>server.py</strong> and <strong>client.py</strong> file, correspondig to the programs running in the attacker's machine and 
-    victim's machine respectively. In the first project, "Ex 1.1", the server always sends the same command to be run on the cleint's terminal and get the output.In the second project, "Ex 1.2", 
-    the attacker chooses the command. In the third project, "Ex 1.3",  the server program keeps track of each victim's situation, and allows the attacker to choose not only the command, but also 
-    which victim he wants to attack.
+    victim's machine respectively. In the first project, "Ex 1.1", the server always sends the same command to be run on the client's terminal and get the output. In the second project, "Ex 1.2", the attacker chooses the command. In the third project, "Ex 1.3",  the server program keeps track of each victim's situation, and allows the attacker to choose not only the command, but also which victim he wants to attack.
 </p>
 
 ## Features
