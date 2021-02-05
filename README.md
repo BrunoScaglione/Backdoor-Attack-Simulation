@@ -1,5 +1,3 @@
-# Backdoor-Attack-Simulation
-Three sub-projects of different backdoor attack configurations scaling in complexity, with server and client implementations.
 
 <h1 align="center">
 Backdoor-Attack-Simulation
