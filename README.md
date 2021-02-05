@@ -39,3 +39,8 @@ python server.py
 ```bash
 python client.py
 ```
+
+
+## Project details
+
+You can check [my report](https://github.com/BrunoScaglione/Backdoor-Attack-Simulation/blob/main/Relatorio_Redes___Entrega_2.pdf) (in Portuguese) for more details on the project.
