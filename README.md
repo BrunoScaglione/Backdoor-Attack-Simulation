@@ -24,7 +24,7 @@ Backdoor-Attack-Simulation
 
 ## Requirements
 
-- **Python**;
+- **Python**
 
 ## Getting started
 
