@@ -22,6 +22,10 @@ Backdoor-Attack-Simulation
 - **subprocess** — a module that allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes;
 - **threading** — a module that allows thread-based parallelism.
 
+## Requirements
+
+- **Python**;
+
 ## Getting started
 
 1. Pick a sub-project and go to it's directory (example below for the first project):
